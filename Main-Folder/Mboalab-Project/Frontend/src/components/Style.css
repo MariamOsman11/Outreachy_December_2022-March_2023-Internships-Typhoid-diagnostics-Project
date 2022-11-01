@@ -183,13 +183,14 @@ height: 100%;
 .site-footer {
   position: absolute;
   width: 100%;
-  margin-top: 20px;
+  margin-top: 5em;
   background-color: #26272b;
   padding: 45px 0 20px;
   font-size: 15px;
   line-height: 24px;
   color: #737373;
 }
+
 
 .site-footer hr {
   border-top-color: #bbb;

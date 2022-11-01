@@ -90,5 +90,9 @@ input:focus {
   margin-right: 2px;
 }
 
+.card-footer{
+background-color:grey;
+margin-bottom: 5em;
 
-/* =============================================================================== */
+}
+

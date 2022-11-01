@@ -61,7 +61,7 @@ function Login() {
               <div className="d-flex justify-content-center links">
                 Don't have an account?<NavLink to="/register">Sign Up</NavLink>
               </div>
-              <div className="d-flex justify-content-center">
+              <div className="d-flex justify-content-center ">
                 <NavLink to="/register">Forgot your password?</NavLink>
               </div>
             </div>
